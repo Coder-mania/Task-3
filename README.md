@@ -7,9 +7,13 @@
 - Dataset: Sales_Financial<br><br>
 **💡Summary:**
 -Load Dataset
+
 -Explore & Prepare Dataset
+
 -Built the Dashboard(KPI Cards, Charts, Slicers, etc)
+
 -Added Buttons(Navigation)
+
 -Added Summary Slide
 
 
